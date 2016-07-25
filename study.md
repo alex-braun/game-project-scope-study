@@ -15,7 +15,7 @@ class.
 Submit detailed answers to these in this file via a pull request.
 
 -   A wireframe of what your game project will look like.
-  -Please see TickTackToe.vp and TickTackToeiPhone.vp.
+  -Please see TicTacToeMain.png and TickTackToePhone.png.
 
 -   The data structure you plan to use.
 
